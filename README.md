@@ -72,12 +72,9 @@ Copy code
     }
   }
 }
-📌 Future Enhancements
-Rider and Driver authentication with Firebase Auth
-Live location streaming of drivers using Firebase listeners
-Ride status updates (e.g., accepted, en route, completed)
-Push notifications for ride status changes
-Route calculation and ETA using Directions API
 
-🤝 Contribution
-This is a learning project, but feel free to fork and extend the functionality. Pull requests are welcome for improvements and new features.
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/0d63d3ec-63d7-4068-a061-ff1173964813)
+
+
